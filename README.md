@@ -6,7 +6,7 @@
 
 🍅 Spare-time blogger at [Pomodori al Sole](https://www.pomodorialsole.com/)
 
-### My interests are: 👋
+### My interests are:
 - human modelling and biomechanics
 - human-robot physical collaboration algorithms development
 - cooking, reading and photography
