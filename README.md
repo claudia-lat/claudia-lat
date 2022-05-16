@@ -11,9 +11,9 @@
 - human-robot physical collaboration algorithms development
 - cooking, reading and photography
 
-### Info
-- CV: https://claudia-lat.github.io/cv_en_CL.pdf
+### How to reach me 📫 :
 - website: https://claudia-lat.github.io/
+- CV: https://claudia-lat.github.io/cv_en_CL.pdf
 
 <!--
 **claudia-lat/claudia-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
